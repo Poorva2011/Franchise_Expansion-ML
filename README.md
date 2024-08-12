@@ -10,8 +10,8 @@ Site Selection: We use machine learning to find the most optimal locations for n
 
 3. Machine Learning Techniques
 This project employs the following machine learning algorithms:
-  i) Random Forest: Used for predicting the success of potential locations based on various market factors.
-  ii) K-Means Clustering: Used for segmenting the customer base into different groups, helping to identify the target customers.
-  iii) Linear Regression: Applied to forecast future sales growth and market trends in the selected locations.
+   a) Random Forest: Used for predicting the success of potential locations based on various market factors.
+   b) K-Means Clustering: Used for segmenting the customer base into different groups, helping to identify the target customers.
+   c) Linear Regression: Applied to forecast future sales growth and market trends in the selected locations.
 
 
